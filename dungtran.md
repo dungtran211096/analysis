@@ -21,7 +21,7 @@
 </ul>
 
 <a name="develop"></a>
-### 2.Developing add-ons**
+### 2.Developing add-ons
  Hiện nay có một số toolsets để phát triển firefox add-ons.Nhưng WebExtensions sẽ trở thành tiêu chuẩn vào cuối năm 2017.Phần còn lại được dự kiến để deprecated trên cùng một khoảng thời gian.
 
  Ở đây bạn sẽ tìm thấy thông tin về những lựa chọn có sẵn để phát triển add-ons, bạn cần đưa ra quyết định cái gì tốt nhất với bạn bây giờ và trong tương lai.
