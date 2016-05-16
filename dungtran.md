@@ -11,7 +11,7 @@
 - [4.How to use SDK](#use)
 
 ===
-### **What's add-on**
+### 1.What's add-on
 <a name="concept"></a>
   Add-ons cho phép người phát triển mở rộng và thay đổi phạm vi thực hiện của functions của Firefox.Nó được viết bằng cách sử dụng công nghệ Web tiêu chuẩn-JS,HTML,CSS - thêm một vài hàm JS APIs.Trong số những thứ khác, add-ons có thể:
 <ul> 
@@ -21,7 +21,7 @@
 </ul>
 
 <a name="develop"></a>
-### **Developing add-ons**
+### 2.Developing add-ons**
  Hiện nay có một số toolsets để phát triển firefox add-ons.Nhưng WebExtensions sẽ trở thành tiêu chuẩn vào cuối năm 2017.Phần còn lại được dự kiến để deprecated trên cùng một khoảng thời gian.
 
  Ở đây bạn sẽ tìm thấy thông tin về những lựa chọn có sẵn để phát triển add-ons, bạn cần đưa ra quyết định cái gì tốt nhất với bạn bây giờ và trong tương lai.
@@ -42,7 +42,7 @@ Firefox đang chuẩn bị phát hành phiên bảo đầy đủ đầu tiên ch
 Chúng tôi khuyến khích chỉ sử dụng high-level APIs bởi vì nó sẽ làm dễ dàng hơn để  thay đổi sang webextensions trong tương lai.
 
 <a name="install"></a>
-###**Installation add-on SDK**
+### 3.Installation add-on SDK
 B1: ```sh sudo apt-get install nodejs nodejs-legacy npm. ```
 
 B2: Kiểm tra đã cài:
@@ -69,7 +69,7 @@ B5: gõ
 vào tạo add-ons
 
 <a name="use"></a>
-###** How to use SDK**
+### 4.How to use SDK
 
 B1: 
 ```sh
