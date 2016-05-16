@@ -43,18 +43,18 @@ Chúng tôi khuyến khích chỉ sử dụng high-level APIs bởi vì nó sẽ
 
 <a name="install"></a>
 ### 3.Installation add-on SDK
-B1: ```sh sudo apt-get install nodejs nodejs-legacy npm. ```
+B1: ``` sudo apt-get install nodejs nodejs-legacy npm. ```
 
 B2: Kiểm tra đã cài:
-```sh    /usr/bin/env node -v```
+```    /usr/bin/env node -v```
 
 B3: Nếu có lỗi 
-```sh  /usr/bin/env: node: No such file or directory ```
+```  /usr/bin/env: node: No such file or directory ```
     Thì cài 
-```sh sudo apt-get install nodejs-legacy```
+``` sudo apt-get install nodejs-legacy```
 
 B4: Cài jpm 
-```sh sudo npm install jpm --global```
+``` sudo npm install jpm --global```
     Hoặc
 ```sh
 git clone https://github.com/mozilla-jetpack/jpm.git*
@@ -64,7 +64,7 @@ npm link
 ```
 
 B5: gõ
-```sh jpm ```
+``` jpm ```
 vào tạo add-ons
 
 <a name="use"></a>
@@ -78,11 +78,11 @@ B1:
 ```
 
 B2: Điền vào file **package.json**
-```sh https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json ```
+``` https://developer.mozilla.org/en-US/Add-ons/SDK/Tools/package_json ```
 
 B3: Mở file javascript đã tạo trong package.json
 
 B4: Bắt đầu viết code.
 
-B5: ```sh jpm run ```
+B5: ``` jpm run ```
 
