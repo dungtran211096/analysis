@@ -54,9 +54,8 @@ B3: Nếu có lỗi
 ```sh sudo apt-get install nodejs-legacy```
 
 B4: Cài jpm 
-```sh sudo npm install jpm --global
+```sh sudo npm install jpm --global```
     Hoặc
-
 ```sh
 git clone https://github.com/mozilla-jetpack/jpm.git*
 cd jpm
